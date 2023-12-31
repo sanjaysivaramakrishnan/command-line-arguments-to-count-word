@@ -18,6 +18,11 @@ Anaconda - Python 3.7
 ### Step 6: In the command prompt give the text file as input
 
 ## PROGRAM:
+
+# program to find number of words in a text using command line arguments<br> 
+# Developed by : Sanjay sivaramakrishnan M<br>
+# Regester number : 23013798<br>
+
 import sys<br>
 <br>
 with open(sys.argv[1],'r') as value:<br>
@@ -28,7 +33,7 @@ with open(sys.argv[1],'r') as value:<br>
 print(f'Number of word :{count}')<br>        
 
 ### OUTPUT:
-![image](https://github.com/sanjaysivaramakrishnan/command-line-arguments-to-count-word/assets/151629616/26fe4171-27a2-4b25-be54-c45fe507794b)
+![image](https://github.com/sanjaysivaramakrishnan/command-line-arguments-to-count-word/assets/151629616/c123dacc-bd81-4523-8b6f-60db85097532)
 ![image](https://github.com/sanjaysivaramakrishnan/command-line-arguments-to-count-word/assets/151629616/3f0f2c23-83cd-4896-83be-8e75014afcf2)
 
 
